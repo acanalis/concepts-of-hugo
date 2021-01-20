@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/hello-world-json/</link>
+      <pubDate>Wed, 13 Jan 2021 11:00:00 -0300</pubDate>
+      
+      <guid>/hello-world-json/</guid>
+      <description>Hello World!! In this article, I will&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/hello-world-toml/</link>
+      <pubDate>Wed, 13 Jan 2021 11:00:00 -0300</pubDate>
+      
+      <guid>/hello-world-toml/</guid>
+      <description>Hello World!! In this article, I will&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/hello-world-yaml/</link>
+      <pubDate>Wed, 13 Jan 2021 11:00:00 -0300</pubDate>
+      
+      <guid>/hello-world-yaml/</guid>
+      <description>Hello World!! In this article, I will&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
