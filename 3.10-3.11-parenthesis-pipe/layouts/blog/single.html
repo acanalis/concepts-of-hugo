@@ -1,0 +1,10 @@
+<html>
+<title> {{.Title}} </title>
+<body> 
+
+{{ markdownify (upper (emojify "## hello :smiley:")) }}
+
+{{ "## hello :smiley:" | emojify | upper | markdownify }}
+
+</body>
+</html>
