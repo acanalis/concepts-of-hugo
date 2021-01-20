@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> {{ .Title }} </title>
+</head>
+<body>
+{{.Content}}
+<ol>
+{{ range .Pages }}
+  <li>
+  <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+{{ end }}
+</ol>
+</body>
+</html>
