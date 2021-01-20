@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/hello-world/</link>
+      <pubDate>Wed, 13 Jan 2021 11:00:00 -0300</pubDate>
+      
+      <guid>/hello-world/</guid>
+      <description>Hello World!! Before we start, see this video:
+  Named Parameters   Raw string Parameter This is some HTML,and a new line with a &#34;quoted string&#34;. enclosing text, result is inserted into page directly A bunch of code here  enclosing text, result is inserted to content file, and then gets rendered as markdown. Markdown to process in the center.
+Self closing Hello from myshortcodeHello from myshortcode</description>
+    </item>
+    
+  </channel>
+</rss>
