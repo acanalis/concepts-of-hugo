@@ -1,0 +1,18 @@
+<html>
+<body>
+  
+  {{ if (isset .Params "my_custom_variable") }}
+  <p> The value is: {{ .Params.my_custom_variable }} </p>
+  {{ else }} 
+  <p> my_custom_param not set </p>
+  {{ end }}
+
+  {{ with .Params.my_custom_param }}
+  <p> The value is: {{.}} </p>
+  {{ end }}
+
+  {{ $a := default "my_default" .Params.my_custom_variable }}
+  {{ $a }}
+
+</body>
+</html>
