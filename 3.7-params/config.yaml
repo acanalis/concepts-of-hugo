@@ -1,0 +1,3 @@
+baseURL: https://example.com
+params: 
+  my_custom_variable: im a custom variable
